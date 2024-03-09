@@ -24,8 +24,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###
-![Snake animation](https://github.com/dracula0007/dracula0007/blob/output/github-contribution-grid-snake.svg)
+### 📊 Graph
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=dracula0007&theme=github">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dracula0007&icon=6&color=0)](https://visitcount.itsvg.in)
