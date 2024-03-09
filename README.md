@@ -24,8 +24,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dracula0007/dracula0007/output/snake.svg07/dracula0007/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dracula0007&icon=6&color=0)](https://visitcount.itsvg.in)
